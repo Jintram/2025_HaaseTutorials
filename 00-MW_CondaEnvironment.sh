@@ -15,6 +15,8 @@ conda install -c conda-forge -c bioconda pooch
     # turned out to be necessary to load available online example datasets
 conda install jupyter
     # to run jupyter notebooks
+conda install -c conda-forge colorcet
+    # addition MW
 
 ################################################################################
 # OLD CODE (used to install the environment at older laptop)
